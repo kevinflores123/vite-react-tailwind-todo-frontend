@@ -1,4 +1,4 @@
-import CrossIcons from "./components/icons/CrossIcons";
+import Cross from "./components/icons/Cross";
 import Luna from "./components/icons/Luna";
 
 const  App = () => {
@@ -23,19 +23,19 @@ const  App = () => {
       <article className="flex gap-4 border-b border-b-gray-400">
         <button className="flex-none inline-block h-5 w-5 rounded-full border-2"></button>
         <p className="grow text-gray-600">Complete online javascript curse in bluuweb</p>
-        <button><CrossIcons /></button>
+        <button><Cross /></button>
       </article
       >
       <article className="flex gap-4 border-b border-b-gray-400">
         <button className="flex-none inline-block h-5 w-5 rounded-full border-2"></button>
         <p className="grow text-gray-600">Complete online javascript curse in bluuweb</p>
-        <button><CrossIcons /></button>
+        <button><Cross /></button>
       </article>
 
       <article className="flex gap-4 border-b border-b-gray-400">
         <button className="flex-none inline-block h-5 w-5 rounded-full border-2"></button>
         <p className="grow text-gray-600">Complete online javascript curse in bluuweb</p>
-        <button><CrossIcons /></button>
+        <button><Cross /></button>
       </article>
 
       <section className="flex justify-between py-4 px-4">
