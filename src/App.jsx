@@ -1,4 +1,4 @@
-import CrossIcons from "./components/icons/Crossicons";
+import CrossIcons from "./components/icons/CrossIcons";
 import Luna from "./components/icons/Luna";
 
 const  App = () => {
